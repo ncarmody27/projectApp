@@ -40,11 +40,6 @@ A simple project tracking app
 <li></li>
 </ul>
 
-<div>
-<a href='/sitemap'>Sitemap</a>
-</div>
 </body>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.8.23/browser.min.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<!--script src="script.js"></script-->
+
 </html>
